@@ -19,7 +19,7 @@
 <h4>:woman_technologist: About Me :</h4>
 
 - 🔭 I’m currently working on : Some React JS projects
-- 🌱 I’m currently learning : React JS
+- 🌱 I’m currently learning : Django
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/deepika-sr-04042003/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
