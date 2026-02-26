@@ -18,8 +18,8 @@
 <br>
 <h4>:woman_technologist: About Me :</h4>
 
-- 🔭 I’m currently working on : Some Intermediate JS Projects
-- 🌱 I’m currently learning : Full Stack Javascript
+- 🔭 I’m currently working on : Some Cool Projects
+- 🌱 I’m currently learning : Vibe coding
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/deepika-sr-04042003/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
